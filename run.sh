@@ -1,0 +1,6 @@
+#
+curl 
+cd 
+build
+
+run
